@@ -1,12 +1,12 @@
-import React from 'react'
+import UsersList from './components/UsersList'
 
 const App = () => {
   return (
-    <div>
-      Media app with Redux toolkit
+    <div className="container mx-auto">
+      <UsersList />
     </div>
-  )
+  );
 }
 
-export default App
+export default App;
 
