@@ -11,7 +11,6 @@ const fetchUsers = createAsyncThunk('users/fetch', async () => {
 });
 
 // DEVELOPMENT purpose only
-
 const pause = (duration) => {
   return new Promise((resolve) => {
     setTimeout(resolve, duration);
