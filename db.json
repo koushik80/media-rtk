@@ -1,6 +1,49 @@
 {
   "users": [
-    { "id": 1, "name": "Koushik" }
+    {
+      "id": 1,
+      "name": "Koushik"
+    },
+    {
+      "name": "Jackie Jacobs I",
+      "id": 2
+    },
+    {
+      "name": "Terri Collins",
+      "id": 3
+    },
+    {
+      "name": "Meredith Little",
+      "id": 4
+    },
+    {
+      "name": "Greg Oberbrunner",
+      "id": 5
+    },
+    {
+      "name": "Clinton Jones",
+      "id": 6
+    },
+    {
+      "name": "Grady Moen",
+      "id": 7
+    },
+    {
+      "name": "Jodi Olson",
+      "id": 8
+    },
+    {
+      "name": "Blanca Padberg",
+      "id": 9
+    },
+    {
+      "name": "Ethel Kerluke",
+      "id": 10
+    },
+    {
+      "name": "Richard Goldner",
+      "id": 11
+    }
   ],
   "albums": [],
   "photos": []
