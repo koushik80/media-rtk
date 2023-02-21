@@ -21,6 +21,12 @@
       "id": 24
     }
   ],
-  "albums": [],
+  "albums": [
+    {
+      "id": 10,
+      "title": "Coding trip",
+      "userId": 1
+    }
+  ],
   "photos": []
 }
