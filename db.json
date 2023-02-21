@@ -15,10 +15,6 @@
     {
       "name": "Mr. Conrad Kirlin",
       "id": 23
-    },
-    {
-      "name": "Ms. Rufus Walsh",
-      "id": 24
     }
   ],
   "albums": [
@@ -34,13 +30,18 @@
     },
     {
       "userId": 1,
-      "title": "Bespoke Concrete Chips",
-      "id": 12
+      "title": "Bespoke Bronze Pants",
+      "id": 18
     },
     {
       "userId": 1,
-      "title": "Oriental Steel Salad",
-      "id": 13
+      "title": "Handcrafted Fresh Car",
+      "id": 19
+    },
+    {
+      "userId": 1,
+      "title": "Luxurious Granite Table",
+      "id": 20
     }
   ],
   "photos": []
