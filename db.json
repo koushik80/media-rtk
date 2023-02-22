@@ -15,10 +15,6 @@
     {
       "name": "Mr. Conrad Kirlin",
       "id": 23
-    },
-    {
-      "name": "Joanna Harber",
-      "id": 24
     }
   ],
   "albums": [
@@ -41,21 +37,6 @@
       "userId": 23,
       "title": "Gorgeous Bronze Pizza",
       "id": 22
-    },
-    {
-      "userId": 24,
-      "title": "Recycled Fresh Keyboard",
-      "id": 23
-    },
-    {
-      "userId": 1,
-      "title": "Recycled Wooden Table",
-      "id": 24
-    },
-    {
-      "userId": 1,
-      "title": "Oriental Metal Chips",
-      "id": 25
     }
   ],
   "photos": []
