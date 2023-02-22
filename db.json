@@ -29,16 +29,6 @@
     },
     {
       "userId": 1,
-      "title": "Unbranded Plastic Pizza",
-      "id": 11
-    },
-    {
-      "userId": 1,
-      "title": "Handcrafted Fresh Car",
-      "id": 19
-    },
-    {
-      "userId": 1,
       "title": "Luxurious Granite Table",
       "id": 20
     },
@@ -59,8 +49,13 @@
     },
     {
       "userId": 1,
-      "title": "Rustic Wooden Keyboard",
+      "title": "Recycled Wooden Table",
       "id": 24
+    },
+    {
+      "userId": 1,
+      "title": "Oriental Metal Chips",
+      "id": 25
     }
   ],
   "photos": []
